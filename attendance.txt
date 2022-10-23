@@ -1,0 +1,21 @@
+students -> id,name,enrollment number,personal formal intrestest in one word,img url,status, [hobbies]
+feeds -> id,time,[student]
+
+
+screens: 1) Home -> Given A Monthly Calendar
+                 -> Top Right For Account Section 
+                 -> Top Left for Hello,Kirtan
+                 ->Container    ->Calendar
+                                ->Select Date will navigate to Schedule of that day 
+                                ->You can select any lecture and turn it into attended or cancelled
+                                ->each one is given with Time
+                 ->Announcements
+         
+         2)Current Feeds by students 
+                 -> Not Yet Decided
+            
+         3)Chat Rooms
+                 -> Not Yet Decided
+                
+         4)Analytics:
+                 -> Not Yet Decided
